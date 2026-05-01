@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games
+message: If you use this repository, please cite the associated workshop paper.
+type: software
+authors:
+  - family-names: Vijay
+    given-names: Prajwal
+    affiliation: Indian Institute of Technology Madras
+    email: ee23b057@smail.iitm.ac.in
+preferred-citation:
+  type: paper
+  authors:
+    - family-names: Vijay
+      given-names: Prajwal
+  title: Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games
+  year: 2026
+  conference-title: MARS Workshop at ICRA 2026
