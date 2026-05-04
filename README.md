@@ -13,8 +13,8 @@ MARS Workshop at ICRA 2026 submission
 - Video / demo link: `TODO`
 
 ## Teaser Figure
-
-Place repository-local figures in `media/` and uncomment the placeholder below when you are ready.
+`TODO`
+<!-- Place repository-local figures in `media/` and uncomment the placeholder below when you are ready.
 
 <!--
 ![Teaser figure](media/teaser.png)
@@ -219,8 +219,8 @@ The `scripts/reproduce_paper_results.sh` script creates:
 - `results/paper_review/aggregates.json`
 
 ## Figures
-
-Use this section for static figures from the paper, qualitative trajectory screenshots, or benchmark summary plots.
+`TODO`
+<!-- Use this section for static figures from the paper, qualitative trajectory screenshots, or benchmark summary plots.
 
 <!--
 ### Example figure slot
@@ -229,8 +229,8 @@ Use this section for static figures from the paper, qualitative trajectory scree
 -->
 
 ## Video / Demo
-
-Use this section for a GitHub-hosted video, a GIF preview, or an external demo link.
+`TODO`
+<!-- Use this section for a GitHub-hosted video, a GIF preview, or an external demo link.
 
 <!--
 ### Example video slot
