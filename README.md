@@ -4,7 +4,8 @@ Code and benchmark artifact accompanying the paper:
 
 **Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games**  
 Prajwal Vijay  
-MARS Workshop at ICRA 2026 submission
+Accepted at _MARS Workshop at ICRA 2026_
+
 
 ## Paper
 
