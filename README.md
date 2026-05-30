@@ -1,8 +1,8 @@
-# Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games
+# Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games
 
 Code and benchmark artifact accompanying the paper:
 
-**Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games**  
+**Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games**  
 Prajwal Vijay  
 Accepted at _MARS Workshop at ICRA 2026_
 
