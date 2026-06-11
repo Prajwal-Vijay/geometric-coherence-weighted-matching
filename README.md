@@ -2,7 +2,7 @@
 
 Code and benchmark artifact accompanying the paper:
 
-**Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games**  
+**[Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games](https://openreview.net/forum?id=0WHJGj07mJ)**  
 Prajwal Vijay  
 Accepted at _MARS Workshop at ICRA 2026_
 
@@ -244,12 +244,13 @@ The `scripts/reproduce_paper_results.sh` script creates:
 If you use this repository, please cite the paper once the bibliographic details are finalized.
 
 ```bibtex
-@misc{vijay2026geometric,
-  title={Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Pursuer Reach-Avoid Games},
-  author={Prajwal Vijay},
-  year={2026},
-  note={MARS Workshop at ICRA 2026 submission},
-  url={TODO}
+@inproceedings{
+vijay2026geometric,
+title={Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games},
+author={Prajwal Vijay},
+booktitle={ICRA 2026 Workshop on Multi-Agent Robotic Systems: Real-World Collaboration and Interaction},
+year={2026},
+url={https://openreview.net/forum?id=0WHJGj07mJ}
 }
 ```
 
