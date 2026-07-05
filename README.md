@@ -9,7 +9,7 @@ Accepted at _MARS Workshop at ICRA 2026_
 
 ## Paper
 
-- Paper PDF: `TODO`
+- Paper PDF: [LINK](https://github.com/Prajwal-Vijay/geometric-coherence-weighted-matching)
 - Project page: `TODO`
 - Video / demo link: `TODO`
 
