@@ -14,7 +14,8 @@ Accepted at _MARS Workshop at ICRA 2026_
 - Video / demo link: `TODO`
 
 ## Teaser Figure
-`TODO`
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a4c23d49-27f0-4254-bcf4-8fae96825ccf" />
+
 <!-- Place repository-local figures in `media/` and uncomment the placeholder below when you are ready.
 
 <!--
