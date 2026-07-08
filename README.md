@@ -220,8 +220,9 @@ The `scripts/reproduce_paper_results.sh` script creates:
 - `results/paper_review/aggregates.csv`
 - `results/paper_review/aggregates.json`
 
-## Figures
-`TODO`
+<!-- ## Figures
+`TODO -->
+
 <!-- Use this section for static figures from the paper, qualitative trajectory screenshots, or benchmark summary plots.
 
 <!--
@@ -230,8 +231,9 @@ The `scripts/reproduce_paper_results.sh` script creates:
 ![Braided corridors qualitative comparison](media/braided_corridors.png)
 -->
 
-## Video / Demo
-`TODO`
+<!-- ## Video / Demo
+`TODO` -->
+
 <!-- Use this section for a GitHub-hosted video, a GIF preview, or an external demo link.
 
 <!--
